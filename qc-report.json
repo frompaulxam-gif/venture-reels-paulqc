@@ -2056,6 +2056,272 @@
   "addition_checks": {
     "video_count": 22,
     "visual_review": "Five sampled frames per addition; categories and adaptation notes based on sampled frames and captions. One full carousel video component included.",
-    "live_status": "pending"
+    "live_status": "44 new media URLs return 200 and exact content length; MP4 MIME checked. Six live site files match local bytes.",
+    "live_media": [
+      {
+        "path": "media/DZndoGIouqH.mp4",
+        "status": 200,
+        "bytes": 3095465,
+        "pass": true
+      },
+      {
+        "path": "media/DZndoGIouqH.jpg",
+        "status": 200,
+        "bytes": 102372,
+        "pass": true
+      },
+      {
+        "path": "media/DcLMoN9xdkm.mp4",
+        "status": 200,
+        "bytes": 2758036,
+        "pass": true
+      },
+      {
+        "path": "media/DcLMoN9xdkm.jpg",
+        "status": 200,
+        "bytes": 80630,
+        "pass": true
+      },
+      {
+        "path": "media/DcN6gbqBPZN.mp4",
+        "status": 200,
+        "bytes": 3475153,
+        "pass": true
+      },
+      {
+        "path": "media/DcN6gbqBPZN.jpg",
+        "status": 200,
+        "bytes": 56336,
+        "pass": true
+      },
+      {
+        "path": "media/DcEXW3GRzQ5.mp4",
+        "status": 200,
+        "bytes": 4781956,
+        "pass": true
+      },
+      {
+        "path": "media/DcEXW3GRzQ5.jpg",
+        "status": 200,
+        "bytes": 139688,
+        "pass": true
+      },
+      {
+        "path": "media/DZ4eShsOl0G.mp4",
+        "status": 200,
+        "bytes": 5347142,
+        "pass": true
+      },
+      {
+        "path": "media/DZ4eShsOl0G.jpg",
+        "status": 200,
+        "bytes": 51207,
+        "pass": true
+      },
+      {
+        "path": "media/DZp_L-AJaey.mp4",
+        "status": 200,
+        "bytes": 12810475,
+        "pass": true
+      },
+      {
+        "path": "media/DZp_L-AJaey.jpg",
+        "status": 200,
+        "bytes": 121248,
+        "pass": true
+      },
+      {
+        "path": "media/DZA3op7xJJF.mp4",
+        "status": 200,
+        "bytes": 22635285,
+        "pass": true
+      },
+      {
+        "path": "media/DZA3op7xJJF.jpg",
+        "status": 200,
+        "bytes": 65896,
+        "pass": true
+      },
+      {
+        "path": "media/DXvPjs5AOgP.mp4",
+        "status": 200,
+        "bytes": 2100295,
+        "pass": true
+      },
+      {
+        "path": "media/DXvPjs5AOgP.jpg",
+        "status": 200,
+        "bytes": 51308,
+        "pass": true
+      },
+      {
+        "path": "media/DXo9zhwod1Z.mp4",
+        "status": 200,
+        "bytes": 1725594,
+        "pass": true
+      },
+      {
+        "path": "media/DXo9zhwod1Z.jpg",
+        "status": 200,
+        "bytes": 73149,
+        "pass": true
+      },
+      {
+        "path": "media/DX5G5X_t2kI.mp4",
+        "status": 200,
+        "bytes": 3953272,
+        "pass": true
+      },
+      {
+        "path": "media/DX5G5X_t2kI.jpg",
+        "status": 200,
+        "bytes": 95878,
+        "pass": true
+      },
+      {
+        "path": "media/DW95OiIDqZJ.mp4",
+        "status": 200,
+        "bytes": 1805654,
+        "pass": true
+      },
+      {
+        "path": "media/DW95OiIDqZJ.jpg",
+        "status": 200,
+        "bytes": 63194,
+        "pass": true
+      },
+      {
+        "path": "media/DXe1nnLjAFx.mp4",
+        "status": 200,
+        "bytes": 3104371,
+        "pass": true
+      },
+      {
+        "path": "media/DXe1nnLjAFx.jpg",
+        "status": 200,
+        "bytes": 60064,
+        "pass": true
+      },
+      {
+        "path": "media/DVJsYglkiU6.mp4",
+        "status": 200,
+        "bytes": 6844687,
+        "pass": true
+      },
+      {
+        "path": "media/DVJsYglkiU6.jpg",
+        "status": 200,
+        "bytes": 68458,
+        "pass": true
+      },
+      {
+        "path": "media/DWQ3O0yDeVx.mp4",
+        "status": 200,
+        "bytes": 4564683,
+        "pass": true
+      },
+      {
+        "path": "media/DWQ3O0yDeVx.jpg",
+        "status": 200,
+        "bytes": 84835,
+        "pass": true
+      },
+      {
+        "path": "media/DXAfMo_CK_9.mp4",
+        "status": 200,
+        "bytes": 2051857,
+        "pass": true
+      },
+      {
+        "path": "media/DXAfMo_CK_9.jpg",
+        "status": 200,
+        "bytes": 37190,
+        "pass": true
+      },
+      {
+        "path": "media/DXPxUacuXn7.mp4",
+        "status": 200,
+        "bytes": 1165420,
+        "pass": true
+      },
+      {
+        "path": "media/DXPxUacuXn7.jpg",
+        "status": 200,
+        "bytes": 85529,
+        "pass": true
+      },
+      {
+        "path": "media/DSU1uNiABhF.mp4",
+        "status": 200,
+        "bytes": 15824087,
+        "pass": true
+      },
+      {
+        "path": "media/DSU1uNiABhF.jpg",
+        "status": 200,
+        "bytes": 76265,
+        "pass": true
+      },
+      {
+        "path": "media/DU-hGtyDvCk.mp4",
+        "status": 200,
+        "bytes": 10559525,
+        "pass": true
+      },
+      {
+        "path": "media/DU-hGtyDvCk.jpg",
+        "status": 200,
+        "bytes": 44713,
+        "pass": true
+      },
+      {
+        "path": "media/DWZDjVFjGlh.mp4",
+        "status": 200,
+        "bytes": 2335614,
+        "pass": true
+      },
+      {
+        "path": "media/DWZDjVFjGlh.jpg",
+        "status": 200,
+        "bytes": 68681,
+        "pass": true
+      },
+      {
+        "path": "media/DUCnY7ugBUL.mp4",
+        "status": 200,
+        "bytes": 9997404,
+        "pass": true
+      },
+      {
+        "path": "media/DUCnY7ugBUL.jpg",
+        "status": 200,
+        "bytes": 64405,
+        "pass": true
+      },
+      {
+        "path": "media/DW1cyexjA4L.mp4",
+        "status": 200,
+        "bytes": 2132354,
+        "pass": true
+      },
+      {
+        "path": "media/DW1cyexjA4L.jpg",
+        "status": 200,
+        "bytes": 88060,
+        "pass": true
+      },
+      {
+        "path": "media/DWrPSzuDFc0.mp4",
+        "status": 200,
+        "bytes": 870299,
+        "pass": true
+      },
+      {
+        "path": "media/DWrPSzuDFc0.jpg",
+        "status": 200,
+        "bytes": 11068,
+        "pass": true
+      }
+    ]
   }
 }
