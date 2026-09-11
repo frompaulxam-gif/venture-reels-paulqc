@@ -1,8 +1,8 @@
 {
-  "checked": "2026-09-11",
+  "checked": "2026-09-12",
   "checks": "Full ffmpeg decode; H.264 stream; duration and native dimensions match source; file SHA256 recorded.",
-  "total_videos": 99,
-  "passed": 99,
+  "total_videos": 121,
+  "passed": 121,
   "silent_files": [
     "CfYYmO6jHgU",
     "Co4EtXwpRuT",
@@ -1101,6 +1101,248 @@
       "size_bytes": 16598437,
       "sha256": "acfe6bc395232f11d158a50858d69809e918330b08cb33fd64e83af28c3a6e1b",
       "error": ""
+    },
+    {
+      "id": "DZndoGIouqH",
+      "pass": true,
+      "duration": 13.723991,
+      "width": 1080,
+      "height": 1920,
+      "audio_present": true,
+      "size_bytes": 3095465,
+      "sha256": "6ecede90b35d7310157ded58ecfbe93a1bf6503ac8e395e8e8b77aa0d8ba6e73",
+      "error": ""
+    },
+    {
+      "id": "DcLMoN9xdkm",
+      "pass": true,
+      "duration": 6.619002,
+      "width": 1080,
+      "height": 1920,
+      "audio_present": true,
+      "size_bytes": 2758036,
+      "sha256": "f6acee90224aa87f8cda910b76f92218d253e436e0e50c60b94d78425fa0d8fa",
+      "error": ""
+    },
+    {
+      "id": "DcN6gbqBPZN",
+      "pass": true,
+      "duration": 22.037007,
+      "width": 1080,
+      "height": 1920,
+      "audio_present": true,
+      "size_bytes": 3475153,
+      "sha256": "d014e0d12de40c81dbac6245db6f4da368c9ce5f02f9cf58e2f22aa148fcefc4",
+      "error": ""
+    },
+    {
+      "id": "DcEXW3GRzQ5",
+      "pass": true,
+      "duration": 10.612993,
+      "width": 1916,
+      "height": 1078,
+      "audio_present": true,
+      "size_bytes": 4781956,
+      "sha256": "59f966c4df631da1cd59522c6f82e1951d611d24c3ed99bb89df23ef83fba0ce",
+      "error": ""
+    },
+    {
+      "id": "DZ4eShsOl0G",
+      "pass": true,
+      "duration": 16.602993,
+      "width": 1080,
+      "height": 1920,
+      "audio_present": true,
+      "size_bytes": 5347142,
+      "sha256": "984c7984ed695242684995a4671ee245e4c299da7700f78e0668b25a02b7888c",
+      "error": ""
+    },
+    {
+      "id": "DZp_L-AJaey",
+      "pass": true,
+      "duration": 46.379713,
+      "width": 1440,
+      "height": 1080,
+      "audio_present": true,
+      "size_bytes": 12810475,
+      "sha256": "3c1aeefe9730fd21a2c601a8dd352d6376b0254d966d618b771ef83df0e2b4e4",
+      "error": ""
+    },
+    {
+      "id": "DZA3op7xJJF",
+      "pass": true,
+      "duration": 49.853991,
+      "width": 1080,
+      "height": 1920,
+      "audio_present": true,
+      "size_bytes": 22635285,
+      "sha256": "942181a4cd593b33bfa5f295b3408c3cf886cc7e8d5c1f81ca41b983e3a3a2bb",
+      "error": ""
+    },
+    {
+      "id": "DXvPjs5AOgP",
+      "pass": true,
+      "duration": 13.445011,
+      "width": 720,
+      "height": 1280,
+      "audio_present": true,
+      "size_bytes": 2100295,
+      "sha256": "5e5453981033d20b60468c3d5c85bd97173f72193b3060a83a2586c22c79465d",
+      "error": ""
+    },
+    {
+      "id": "DXo9zhwod1Z",
+      "pass": true,
+      "duration": 8.522993,
+      "width": 720,
+      "height": 1280,
+      "audio_present": true,
+      "size_bytes": 1725594,
+      "sha256": "ea38f94f5865ff97f9d6895756415ceb4fda272657828f343f7b9c5f5f7c27f2",
+      "error": ""
+    },
+    {
+      "id": "DX5G5X_t2kI",
+      "pass": true,
+      "duration": 9.545011,
+      "width": 720,
+      "height": 1280,
+      "audio_present": true,
+      "size_bytes": 3953272,
+      "sha256": "a3b43838c8a71a49b677d9104a574f8f579daa0d9f58ac06b029aa7fa26fdff0",
+      "error": ""
+    },
+    {
+      "id": "DW95OiIDqZJ",
+      "pass": true,
+      "duration": 8.940998,
+      "width": 720,
+      "height": 1280,
+      "audio_present": true,
+      "size_bytes": 1805654,
+      "sha256": "c08bdee55c631f35c53ff1863302d46c70a8c3580088a8a0e076af5332d75636",
+      "error": ""
+    },
+    {
+      "id": "DXe1nnLjAFx",
+      "pass": true,
+      "duration": 22.500998,
+      "width": 720,
+      "height": 1280,
+      "audio_present": true,
+      "size_bytes": 3104371,
+      "sha256": "c02ce74f5bf9300483f13f324ae11ff99a3e3d2f21f40213b943250b13657557",
+      "error": ""
+    },
+    {
+      "id": "DVJsYglkiU6",
+      "pass": true,
+      "duration": 13.079746,
+      "width": 1080,
+      "height": 1920,
+      "audio_present": true,
+      "size_bytes": 6844687,
+      "sha256": "10d72e48c926b88650c71282216d0b8fef67b5761a53910311e1eecd75e82a3b",
+      "error": ""
+    },
+    {
+      "id": "DWQ3O0yDeVx",
+      "pass": true,
+      "duration": 14.652993,
+      "width": 720,
+      "height": 1280,
+      "audio_present": true,
+      "size_bytes": 4564683,
+      "sha256": "af6ab5d3eed26515b057708711b400c6cf193c077303c1ef765237928b905f6a",
+      "error": ""
+    },
+    {
+      "id": "DXAfMo_CK_9",
+      "pass": true,
+      "duration": 13.548,
+      "width": 1080,
+      "height": 1920,
+      "audio_present": true,
+      "size_bytes": 2051857,
+      "sha256": "13a1b5871bb0c51d84f44525d9791417d796adcf8e5fe4261b6f2f84d5c4a805",
+      "error": ""
+    },
+    {
+      "id": "DXPxUacuXn7",
+      "pass": true,
+      "duration": 6.015011,
+      "width": 1080,
+      "height": 810,
+      "audio_present": true,
+      "size_bytes": 1165420,
+      "sha256": "5f5491f3eec96af16caca46e34f3029a10bfe8bf6d3446c8981da4c99fb1b578",
+      "error": ""
+    },
+    {
+      "id": "DSU1uNiABhF",
+      "pass": true,
+      "duration": 70.845011,
+      "width": 1080,
+      "height": 1920,
+      "audio_present": true,
+      "size_bytes": 15824087,
+      "sha256": "81eb082796cdd08cb91137d77b45d17a71742936d8ec708e5223797b1205a272",
+      "error": ""
+    },
+    {
+      "id": "DU-hGtyDvCk",
+      "pass": true,
+      "duration": 39.312993,
+      "width": 720,
+      "height": 1280,
+      "audio_present": true,
+      "size_bytes": 10559525,
+      "sha256": "1d149218df4580aab71aee50e04438f6e3190db73bc09863d806b3669fc28417",
+      "error": ""
+    },
+    {
+      "id": "DWZDjVFjGlh",
+      "pass": true,
+      "duration": 12.841995,
+      "width": 720,
+      "height": 1280,
+      "audio_present": true,
+      "size_bytes": 2335614,
+      "sha256": "0879721a2be1dccab5153859299057e4593f5566af86efae7846c3fc62080bed",
+      "error": ""
+    },
+    {
+      "id": "DUCnY7ugBUL",
+      "pass": true,
+      "duration": 33.879002,
+      "width": 1080,
+      "height": 1920,
+      "audio_present": true,
+      "size_bytes": 9997404,
+      "sha256": "047a261bdad7bc47e67d7b8bcea6ab06e460d0e4ed174dcc0070c941e4ba564c",
+      "error": ""
+    },
+    {
+      "id": "DW1cyexjA4L",
+      "pass": true,
+      "duration": 4.621995,
+      "width": 1440,
+      "height": 1080,
+      "audio_present": true,
+      "size_bytes": 2132354,
+      "sha256": "752289c340e89e62ab242015fb97f66b005745e7ca9b1352e492fd8a13e73211",
+      "error": ""
+    },
+    {
+      "id": "DWrPSzuDFc0",
+      "pass": true,
+      "duration": 22.95,
+      "width": 360,
+      "height": 360,
+      "audio_present": true,
+      "size_bytes": 870299,
+      "sha256": "84f250220d33c3203ccb60fd8fa923af3892d3651fdf261004544dd7cd00756b",
+      "error": ""
     }
   ],
   "live_checks": {
@@ -1810,5 +2052,10 @@
       "test_data": "Test row deleted and local test inputs cleared",
       "limitations": "No physical iPhone/Safari test. Seven sources offer no audio. One original Reel is URL-only."
     }
+  },
+  "addition_checks": {
+    "video_count": 22,
+    "visual_review": "Five sampled frames per addition; categories and adaptation notes based on sampled frames and captions. One full carousel video component included.",
+    "live_status": "pending"
   }
 }
