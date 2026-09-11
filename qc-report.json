@@ -2322,6 +2322,28 @@
         "bytes": 11068,
         "pass": true
       }
-    ]
+    ],
+    "browser": {
+      "status": "passed",
+      "checked": "2026-09-12",
+      "checks": [
+        "New collection displays 22 items, S01\u2013S22 across two pages",
+        "Legacy 100-character answer URL expanded to 122 without changing original IDs",
+        "S01 and S22 played with currentTime advancing, readyState 4 and no media error",
+        "Download link triggered a browser download",
+        "Copy answers includes new verdicts and S22",
+        "Votes, note, name and overall text survived reload; note displayed as Flag",
+        "Live test submission read back with 122 IDs; same-name replacement verified",
+        "Results showed new-item totals and amber note",
+        "Only disposable test response removed; 0 real responses existed at backup and cleanup",
+        "390px phone emulation: one column and document width 390px; desktop metrics restored",
+        "Library new collection and Character styling filter verified",
+        "Annual calendar has 12 monthly rows and four release options"
+      ],
+      "limitations": [
+        "Phone layout emulated in desktop Chrome; not a physical iPhone test",
+        "Content categorisation uses captions and five sampled frames per addition; not a full transcript analysis"
+      ]
+    }
   }
 }
