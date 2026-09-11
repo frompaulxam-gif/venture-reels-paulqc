@@ -1104,6 +1104,711 @@
     }
   ],
   "live_checks": {
-    "status": "pending"
+    "url": "https://frompaulxam-gif.github.io/venture-reels-paulqc/",
+    "media_head_checks": [
+      {
+        "id": "C-2COAtJL4d",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "C-BqSpPyR17",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "C-JKk9evMlV",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "C0i-z3xpgvn",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "C1Vb5CfSRVG",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "C1jMmCqpwUN",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "C3Mz3VwpwXb",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "C4sCKLhpU7_",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "C6avBrgJb2g",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "C7drL4zp6xo",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "C7gPW2ZJtIq",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "C9J1XpFp5VV",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "C9_-g9EpRC2",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "C9wi8XXJW-K",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "C9zBU-ZJWhl",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "CW2geyRDwDs",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "CXNuJnjDd0k",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "CYbJWOCqB71",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "C_NXQE0JF2s",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "CevUqC3DW1c",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "CfYYmO6jHgU",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "Cfn3KpUDr3-",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "ChHK2OSjsWh",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "ChZQLE4DnTv",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "ChmC_meje9d",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "CihBYL6jg83",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "CjAPT1AjW5C",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "CjFZjTKDvvr",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "CkCpK2ODqKB",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "ClDjHehjVJF",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "ClS-vFxj3Fg",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "Cn3vrApJv-Y",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "Co4EtXwpRuT",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "ColfEhTpc1x",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "CsTEiquJx8C",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DADLIEnJTTM",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DEwivSaSTA7",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DGNVK0LSUOA",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DHDbwLaJRsL",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DJ-WndOTttG",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DJ076mCymUL",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DJ6OFsMSmCo",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DJGpKtiy1V-",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DL309YZP1kv",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DLY0LrRSceD",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DMKd3mOyQY5",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DMPF-BxSJkc",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DM_d7RxzgLQ",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DM_eG1tTz4x",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DM_erd4zI0X",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DMed6U-Sr2o",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DNW0BgESA6h",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DNxHp4f5sDa",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DO5ig_Vk2JQ",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DP0rllQk5f4",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DPBDCiKk_dQ",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DQWGND2Ez0T",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DS4CoYrk6fM",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DSCUZR5E8jO",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DU2cErzE6QJ",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DU94L8Sk-XM",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DUC5AKIjrHm",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DUH2f10E95e",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DUSUnJJE7sd",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DUVbxnpk9iq",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DUZ3EMnkx_O",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DUkaLoqk3Bw",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DUl1tOgE9a6",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DUmj1rRk5aX",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DUovZgKE_G3",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DVF4hMWk3XB",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DVVe4yAEx3E",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DWTFpCSD4fN",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DWXp-b7k43V",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DWcfaXGk30F",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DWf856AE23w",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DX1KOPHzsPt",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DXLjT_BE5ZE",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DXv5uA0zfcY",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DYTc9DFTo2d",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DYlIyS6Pl8O",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "Dap8ALfxJGU",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "Db-W0hAKWBc",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "Db9aFPcqAhR",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DbWrAPERw0j",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "Dc1AU_6Nrc5",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "Dc1m-qUKZea",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "Dc1syqARduN",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "Dc3bL0lBP33",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "Dc3rM16N73W",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "Dc7Cok8M6Rd",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DcE_LnnTyyc",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DcHyYnNKS6-",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DcktzqBx81G",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DdBUhtoNTF4",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DdESM4zybZW",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DdGLDlNRVlb",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DdJGG2Ip2a_",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      },
+      {
+        "id": "DdJe8Xaona8",
+        "http_status": 200,
+        "bytes_match": true,
+        "mime": "video/mp4",
+        "pass": true
+      }
+    ],
+    "passed": 99,
+    "browser": {
+      "desktop_playback": "V01 played to 15.071 seconds and readyState 4",
+      "viewport": "390x844 Chrome device emulation; one column; scrollWidth equals 390",
+      "votes_and_notes": "K plus note becomes F; second item X; hash FX and notes survive reload",
+      "clipboard_copy": "Actual Copy answers result read and verified",
+      "submission": "Submitted via live page; server row read back; case-insensitive repeat send replaced row; results and amber notes verified",
+      "test_data": "Test row deleted and local test inputs cleared",
+      "limitations": "No physical iPhone/Safari test. Seven sources offer no audio. One original Reel is URL-only."
+    }
   }
 }
