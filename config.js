@@ -1,0 +1,1 @@
+const CONFIG={"id": "venture-reels-20260911", "title": "Venture / PaulQC", "store": "https://textdb.dev/api/data/qc-0cb44a5aba02a5669a5eff28"};

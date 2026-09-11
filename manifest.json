@@ -1,0 +1,2584 @@
+{
+  "observed": "2026-09-11",
+  "coverage": "83 accessible Vaucluse profile Reels, plus 17 feed references. One feed reference could not be downloaded. This is not an exhaustive archive of every brand, deleted post, ad or TikTok.",
+  "items": [
+    {
+      "code": "V01",
+      "brand": "Vaucluse",
+      "format": "Shoot BTS",
+      "fit": "Strong match",
+      "title": "Hotel campaign BTS",
+      "note": "A room, model and visible crew create a brand world with the product in context. For Venture, try a UK caf\u00e9, hotel lounge or evening interior with clean natural movement.",
+      "date": "20260817",
+      "metric": 9846,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V01-reel",
+          "label": "",
+          "video": "media/DcHyYnNKS6-.mp4",
+          "poster": "media/DcHyYnNKS6-.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DcHyYnNKS6-/",
+          "width": 1080,
+          "height": 1920,
+          "duration": 15.066667,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V02",
+      "brand": "Vaucluse",
+      "format": "Lifestyle / travel",
+      "fit": "Adapt concept",
+      "title": "USA team trip",
+      "note": "Longer travel storytelling supports the brand world. Useful for atmosphere, less efficient than a clear product reveal when selling your first shirt.",
+      "date": "20260813",
+      "metric": 16700,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V02-reel",
+          "label": "",
+          "video": "media/Db-W0hAKWBc.mp4",
+          "poster": "media/Db-W0hAKWBc.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/Db-W0hAKWBc/",
+          "width": 956,
+          "height": 538,
+          "duration": 13.8,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V03",
+      "brand": "Vaucluse",
+      "format": "Product demo",
+      "fit": "Strong match",
+      "title": "Product demo \u00b7 20260521",
+      "note": "Transfer the product-first framing to Venture: collar, embroidery, buttons, fabric movement, then the complete shirt.",
+      "date": "20260521",
+      "metric": 16700,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V03-reel",
+          "label": "",
+          "video": "media/DYlIyS6Pl8O.mp4",
+          "poster": "media/DYlIyS6Pl8O.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DYlIyS6Pl8O/",
+          "width": 1080,
+          "height": 1920,
+          "duration": 2.45,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V04",
+      "brand": "Vaucluse",
+      "format": "Product demo",
+      "fit": "Strong match",
+      "title": "Product demo \u00b7 20260514",
+      "note": "Transfer the product-first framing to Venture: collar, embroidery, buttons, fabric movement, then the complete shirt.",
+      "date": "20260514",
+      "metric": 11100,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V04-reel",
+          "label": "",
+          "video": "media/DYTc9DFTo2d.mp4",
+          "poster": "media/DYTc9DFTo2d.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DYTc9DFTo2d/",
+          "width": 720,
+          "height": 1280,
+          "duration": 9.433333,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V05",
+      "brand": "Vaucluse",
+      "format": "On-body styling",
+      "fit": "Strong match",
+      "title": "On-body styling \u00b7 20260502",
+      "note": "Study the first reveal, proportions and movement. Film the Venture hem, sleeves and back clearly in your own outfit.",
+      "date": "20260502",
+      "metric": 16100,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V05-reel",
+          "label": "",
+          "video": "media/DX1KOPHzsPt.mp4",
+          "poster": "media/DX1KOPHzsPt.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DX1KOPHzsPt/",
+          "width": 1080,
+          "height": 1920,
+          "duration": 8.891995,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V06",
+      "brand": "Vaucluse",
+      "format": "Founder / process",
+      "fit": "Strong match",
+      "title": "Founder capsule walkthrough",
+      "note": "Talk through one actual fit decision while holding and wearing your sample. Cut explanation against detail shots rather than relying on an unsupported quality claim.",
+      "date": "20260430",
+      "metric": 15700,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V06-reel",
+          "label": "",
+          "video": "media/DXv5uA0zfcY.mp4",
+          "poster": "media/DXv5uA0zfcY.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DXv5uA0zfcY/",
+          "width": 1080,
+          "height": 1920,
+          "duration": 106.0,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V07",
+      "brand": "Vaucluse",
+      "format": "Founder / process",
+      "fit": "Adapt concept",
+      "title": "Founder / process \u00b7 20260416",
+      "note": "Use real sample or production footage to explain a specific decision and support trust.",
+      "date": "20260416",
+      "metric": 12200,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V07-reel",
+          "label": "",
+          "video": "media/DXLjT_BE5ZE.mp4",
+          "poster": "media/DXLjT_BE5ZE.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DXLjT_BE5ZE/",
+          "width": 720,
+          "height": 1280,
+          "duration": 6.942993,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V08",
+      "brand": "Vaucluse",
+      "format": "On-body styling",
+      "fit": "Adapt concept",
+      "title": "On-body styling \u00b7 20260330",
+      "note": "Study the first reveal, proportions and movement. Film the Venture hem, sleeves and back clearly in your own outfit.",
+      "date": "20260330",
+      "metric": 20800,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V08-reel",
+          "label": "",
+          "video": "media/DWf856AE23w.mp4",
+          "poster": "media/DWf856AE23w.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DWf856AE23w/",
+          "width": 720,
+          "height": 1280,
+          "duration": 14.08,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V09",
+      "brand": "Vaucluse",
+      "format": "On-body styling",
+      "fit": "Adapt concept",
+      "title": "On-body styling \u00b7 20260328",
+      "note": "Study the first reveal, proportions and movement. Film the Venture hem, sleeves and back clearly in your own outfit.",
+      "date": "20260328",
+      "metric": 18400,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V09-reel",
+          "label": "",
+          "video": "media/DWcfaXGk30F.mp4",
+          "poster": "media/DWcfaXGk30F.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DWcfaXGk30F/",
+          "width": 1080,
+          "height": 1920,
+          "duration": 15.023991,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V10",
+      "brand": "Vaucluse",
+      "format": "On-body styling",
+      "fit": "Adapt concept",
+      "title": "Poolside colourway teaser",
+      "note": "Keep the relaxed full-body movement, but use city or evening styling for a UK autumn launch. The tropical setting is optional.",
+      "date": "20260327",
+      "metric": 40500,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V10-reel",
+          "label": "",
+          "video": "media/DWXp-b7k43V.mp4",
+          "poster": "media/DWXp-b7k43V.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DWXp-b7k43V/",
+          "width": 1080,
+          "height": 1920,
+          "duration": 17.321995,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V11",
+      "brand": "Vaucluse",
+      "format": "On-body styling",
+      "fit": "Adapt concept",
+      "title": "On-body styling \u00b7 20260325",
+      "note": "Study the first reveal, proportions and movement. Film the Venture hem, sleeves and back clearly in your own outfit.",
+      "date": "20260325",
+      "metric": 13900,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V11-reel",
+          "label": "",
+          "video": "media/DWTFpCSD4fN.mp4",
+          "poster": "media/DWTFpCSD4fN.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DWTFpCSD4fN/",
+          "width": 1080,
+          "height": 1920,
+          "duration": 11.378005,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V12",
+      "brand": "Vaucluse",
+      "format": "Founder / process",
+      "fit": "Strong match",
+      "title": "Production complete / early access",
+      "note": "Production footage supplies tangible proof, and the caption gives SMS subscribers early access. Film real embroidery and packing only when production is genuinely at that stage.",
+      "date": "20260301",
+      "metric": 21500,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V12-reel",
+          "label": "",
+          "video": "media/DVVe4yAEx3E.mp4",
+          "poster": "media/DVVe4yAEx3E.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DVVe4yAEx3E/",
+          "width": 1080,
+          "height": 1920,
+          "duration": 14.466667,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V13",
+      "brand": "Vaucluse",
+      "format": "Founder / process",
+      "fit": "Adapt concept",
+      "title": "Founder / process \u00b7 20260223",
+      "note": "Use real sample or production footage to explain a specific decision and support trust.",
+      "date": "20260223",
+      "metric": 20800,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V13-reel",
+          "label": "",
+          "video": "media/DVF4hMWk3XB.mp4",
+          "poster": "media/DVF4hMWk3XB.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DVF4hMWk3XB/",
+          "width": 720,
+          "height": 1280,
+          "duration": 21.833333,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V14",
+      "brand": "Vaucluse",
+      "format": "Founder / process",
+      "fit": "Strong match",
+      "title": "Founder / process \u00b7 20260220",
+      "note": "Use real sample or production footage to explain a specific decision and support trust.",
+      "date": "20260220",
+      "metric": 10200,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V14-reel",
+          "label": "",
+          "video": "media/DU94L8Sk-XM.mp4",
+          "poster": "media/DU94L8Sk-XM.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DU94L8Sk-XM/",
+          "width": 720,
+          "height": 1280,
+          "duration": 9.241995,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V15",
+      "brand": "Vaucluse",
+      "format": "Product demo",
+      "fit": "Strong match",
+      "title": "Product demo \u00b7 20260217",
+      "note": "Transfer the product-first framing to Venture: collar, embroidery, buttons, fabric movement, then the complete shirt.",
+      "date": "20260217",
+      "metric": 14100,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V15-reel",
+          "label": "",
+          "video": "media/DU2cErzE6QJ.mp4",
+          "poster": "media/DU2cErzE6QJ.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DU2cErzE6QJ/",
+          "width": 720,
+          "height": 1280,
+          "duration": 7.766667,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V16",
+      "brand": "Vaucluse",
+      "format": "On-body styling",
+      "fit": "Outside vibe",
+      "title": "On-body styling \u00b7 20260211",
+      "note": "Study the first reveal, proportions and movement. Film the Venture hem, sleeves and back clearly in your own outfit.",
+      "date": "20260211",
+      "metric": 7942,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V16-reel",
+          "label": "",
+          "video": "media/DUovZgKE_G3.mp4",
+          "poster": "media/DUovZgKE_G3.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DUovZgKE_G3/",
+          "width": 720,
+          "height": 1280,
+          "duration": 8.2,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V17",
+      "brand": "Vaucluse",
+      "format": "On-body styling",
+      "fit": "Adapt concept",
+      "title": "On-body styling \u00b7 20260211",
+      "note": "Study the first reveal, proportions and movement. Film the Venture hem, sleeves and back clearly in your own outfit.",
+      "date": "20260211",
+      "metric": 9661,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V17-reel",
+          "label": "",
+          "video": "media/DUmj1rRk5aX.mp4",
+          "poster": "media/DUmj1rRk5aX.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DUmj1rRk5aX/",
+          "width": 720,
+          "height": 1280,
+          "duration": 5.666667,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V18",
+      "brand": "Vaucluse",
+      "format": "On-body styling",
+      "fit": "Strong match",
+      "title": "Striped long-sleeve on body",
+      "note": "One of the closest silhouette references. Show Venture buttoned, over a white tee and with a side/back turn. Make the cropped hem visible above the trousers.",
+      "date": "20260210",
+      "metric": 10600,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V18-reel",
+          "label": "",
+          "video": "media/DUl1tOgE9a6.mp4",
+          "poster": "media/DUl1tOgE9a6.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DUl1tOgE9a6/",
+          "width": 720,
+          "height": 1280,
+          "duration": 7.1,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V19",
+      "brand": "Vaucluse",
+      "format": "On-body styling",
+      "fit": "Adapt concept",
+      "title": "On-body styling \u00b7 20260210",
+      "note": "Study the first reveal, proportions and movement. Film the Venture hem, sleeves and back clearly in your own outfit.",
+      "date": "20260210",
+      "metric": 8649,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V19-reel",
+          "label": "",
+          "video": "media/DUkaLoqk3Bw.mp4",
+          "poster": "media/DUkaLoqk3Bw.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DUkaLoqk3Bw/",
+          "width": 720,
+          "height": 1280,
+          "duration": 6.548005,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V20",
+      "brand": "Vaucluse",
+      "format": "On-body styling",
+      "fit": "Adapt concept",
+      "title": "On-body styling \u00b7 20260206",
+      "note": "Study the first reveal, proportions and movement. Film the Venture hem, sleeves and back clearly in your own outfit.",
+      "date": "20260206",
+      "metric": 9323,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V20-reel",
+          "label": "",
+          "video": "media/DUZ3EMnkx_O.mp4",
+          "poster": "media/DUZ3EMnkx_O.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DUZ3EMnkx_O/",
+          "width": 360,
+          "height": 640,
+          "duration": 9.913515,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V21",
+      "brand": "Vaucluse",
+      "format": "On-body styling",
+      "fit": "Adapt concept",
+      "title": "On-body styling \u00b7 20260204",
+      "note": "Study the first reveal, proportions and movement. Film the Venture hem, sleeves and back clearly in your own outfit.",
+      "date": "20260204",
+      "metric": 8806,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V21-reel",
+          "label": "",
+          "video": "media/DUVbxnpk9iq.mp4",
+          "poster": "media/DUVbxnpk9iq.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DUVbxnpk9iq/",
+          "width": 720,
+          "height": 1280,
+          "duration": 6.827007,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V22",
+      "brand": "Vaucluse",
+      "format": "On-body styling",
+      "fit": "Adapt concept",
+      "title": "On-body styling \u00b7 20260203",
+      "note": "Study the first reveal, proportions and movement. Film the Venture hem, sleeves and back clearly in your own outfit.",
+      "date": "20260203",
+      "metric": 14900,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V22-reel",
+          "label": "",
+          "video": "media/DUSUnJJE7sd.mp4",
+          "poster": "media/DUSUnJJE7sd.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DUSUnJJE7sd/",
+          "width": 720,
+          "height": 1280,
+          "duration": 5.333333,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V23",
+      "brand": "Vaucluse",
+      "format": "Founder / process",
+      "fit": "Strong match",
+      "title": "Creator seeding pays off",
+      "note": "The caption explicitly describes sending pieces to Jack\u2019s Dining Room over time. Adapt the repeated relationship-building and wearer credibility; celebrity access is not required.",
+      "date": "20260130",
+      "metric": 69800,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V23-reel",
+          "label": "",
+          "video": "media/DUH2f10E95e.mp4",
+          "poster": "media/DUH2f10E95e.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DUH2f10E95e/",
+          "width": 1080,
+          "height": 1920,
+          "duration": 40.8,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V24",
+      "brand": "Vaucluse",
+      "format": "Product demo",
+      "fit": "Strong match",
+      "title": "Polo detail and restock",
+      "note": "The useful mechanism is a hand-led product demonstration. Recreate with your pocket embroidery, stripe alignment, collar and buttons.",
+      "date": "20260128",
+      "metric": 16500,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V24-reel",
+          "label": "",
+          "video": "media/DUC5AKIjrHm.mp4",
+          "poster": "media/DUC5AKIjrHm.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DUC5AKIjrHm/",
+          "width": 1080,
+          "height": 1920,
+          "duration": 7.666667,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V25",
+      "brand": "Vaucluse",
+      "format": "Founder / process",
+      "fit": "Strong match",
+      "title": "Founder / process \u00b7 20251230",
+      "note": "Use real sample or production footage to explain a specific decision and support trust.",
+      "date": "20251230",
+      "metric": 19500,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V25-reel",
+          "label": "",
+          "video": "media/DS4CoYrk6fM.mp4",
+          "poster": "media/DS4CoYrk6fM.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DS4CoYrk6fM/",
+          "width": 1080,
+          "height": 1920,
+          "duration": 24.32,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V26",
+      "brand": "Vaucluse",
+      "format": "Lifestyle / travel",
+      "fit": "Adapt concept",
+      "title": "Lifestyle / travel \u00b7 20251209",
+      "note": "Borrow the pacing or sense of place. For the UK launch, replace holiday scenery with a believable autumn setting.",
+      "date": "20251209",
+      "metric": 14600,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V26-reel",
+          "label": "",
+          "video": "media/DSCUZR5E8jO.mp4",
+          "poster": "media/DSCUZR5E8jO.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DSCUZR5E8jO/",
+          "width": 1080,
+          "height": 1920,
+          "duration": 18.866667,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V27",
+      "brand": "Vaucluse",
+      "format": "Founder / process",
+      "fit": "Strong match",
+      "title": "Sample refinement in the studio",
+      "note": "Explain a change that improved the sample. Show the before/after detail if it exists; avoid treating a mockup as production proof.",
+      "date": "20251028",
+      "metric": 18800,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V27-reel",
+          "label": "",
+          "video": "media/DQWGND2Ez0T.mp4",
+          "poster": "media/DQWGND2Ez0T.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DQWGND2Ez0T/",
+          "width": 1080,
+          "height": 1920,
+          "duration": 14.0,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V28",
+      "brand": "Vaucluse",
+      "format": "On-body styling",
+      "fit": "Adapt concept",
+      "title": "On-body styling \u00b7 20251015",
+      "note": "Study the first reveal, proportions and movement. Film the Venture hem, sleeves and back clearly in your own outfit.",
+      "date": "20251015",
+      "metric": 15500,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V28-reel",
+          "label": "",
+          "video": "media/DP0rllQk5f4.mp4",
+          "poster": "media/DP0rllQk5f4.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DP0rllQk5f4/",
+          "width": 1080,
+          "height": 1920,
+          "duration": 17.925011,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V29",
+      "brand": "Vaucluse",
+      "format": "Lifestyle / travel",
+      "fit": "Adapt concept",
+      "title": "Lifestyle / travel \u00b7 20250925",
+      "note": "Borrow the pacing or sense of place. For the UK launch, replace holiday scenery with a believable autumn setting.",
+      "date": "20250925",
+      "metric": 8943,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V29-reel",
+          "label": "",
+          "video": "media/DPBDCiKk_dQ.mp4",
+          "poster": "media/DPBDCiKk_dQ.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DPBDCiKk_dQ/",
+          "width": 1080,
+          "height": 1920,
+          "duration": 3.041995,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V30",
+      "brand": "Vaucluse",
+      "format": "Lifestyle / travel",
+      "fit": "Adapt concept",
+      "title": "Lifestyle / travel \u00b7 20250922",
+      "note": "Borrow the pacing or sense of place. For the UK launch, replace holiday scenery with a believable autumn setting.",
+      "date": "20250922",
+      "metric": 8715,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V30-reel",
+          "label": "",
+          "video": "media/DO5ig_Vk2JQ.mp4",
+          "poster": "media/DO5ig_Vk2JQ.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DO5ig_Vk2JQ/",
+          "width": 1080,
+          "height": 1920,
+          "duration": 5.316009,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V31",
+      "brand": "Vaucluse",
+      "format": "On-body styling",
+      "fit": "Strong match",
+      "title": "On-body styling \u00b7 20250825",
+      "note": "Study the first reveal, proportions and movement. Film the Venture hem, sleeves and back clearly in your own outfit.",
+      "date": "20250825",
+      "metric": 29400,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V31-reel",
+          "label": "",
+          "video": "media/DNxHp4f5sDa.mp4",
+          "poster": "media/DNxHp4f5sDa.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DNxHp4f5sDa/",
+          "width": 1080,
+          "height": 1920,
+          "duration": 8.869002,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V32",
+      "brand": "Vaucluse",
+      "format": "On-body styling",
+      "fit": "Outside vibe",
+      "title": "On-body styling \u00b7 20250815",
+      "note": "Study the first reveal, proportions and movement. Film the Venture hem, sleeves and back clearly in your own outfit.",
+      "date": "20250815",
+      "metric": 10600,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; no audio offered",
+      "variants": [
+        {
+          "id": "V32-reel",
+          "label": "",
+          "video": "media/DNW0BgESA6h.mp4",
+          "poster": "media/DNW0BgESA6h.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DNW0BgESA6h/",
+          "width": 1080,
+          "height": 1920,
+          "duration": 1.3,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V33",
+      "brand": "Vaucluse",
+      "format": "Lifestyle / travel",
+      "fit": "Adapt concept",
+      "title": "Lifestyle / travel \u00b7 20250805",
+      "note": "Borrow the pacing or sense of place. For the UK launch, replace holiday scenery with a believable autumn setting.",
+      "date": "20250805",
+      "metric": 6756,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V33-reel",
+          "label": "",
+          "video": "media/DM_erd4zI0X.mp4",
+          "poster": "media/DM_erd4zI0X.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DM_erd4zI0X/",
+          "width": 1080,
+          "height": 1920,
+          "duration": 4.666667,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V34",
+      "brand": "Vaucluse",
+      "format": "Lifestyle / travel",
+      "fit": "Adapt concept",
+      "title": "Lifestyle / travel \u00b7 20250805",
+      "note": "Borrow the pacing or sense of place. For the UK launch, replace holiday scenery with a believable autumn setting.",
+      "date": "20250805",
+      "metric": 8315,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; no audio offered",
+      "variants": [
+        {
+          "id": "V34-reel",
+          "label": "",
+          "video": "media/DM_eG1tTz4x.mp4",
+          "poster": "media/DM_eG1tTz4x.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DM_eG1tTz4x/",
+          "width": 1080,
+          "height": 1920,
+          "duration": 1.566667,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V35",
+      "brand": "Vaucluse",
+      "format": "On-body styling",
+      "fit": "Strong match",
+      "title": "On-body styling \u00b7 20250805",
+      "note": "Study the first reveal, proportions and movement. Film the Venture hem, sleeves and back clearly in your own outfit.",
+      "date": "20250805",
+      "metric": 12600,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V35-reel",
+          "label": "",
+          "video": "media/DM_d7RxzgLQ.mp4",
+          "poster": "media/DM_d7RxzgLQ.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DM_d7RxzgLQ/",
+          "width": 1080,
+          "height": 1920,
+          "duration": 6.28,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V36",
+      "brand": "Vaucluse",
+      "format": "Lifestyle / travel",
+      "fit": "Adapt concept",
+      "title": "Lifestyle / travel \u00b7 20250724",
+      "note": "Borrow the pacing or sense of place. For the UK launch, replace holiday scenery with a believable autumn setting.",
+      "date": "20250724",
+      "metric": 12500,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V36-reel",
+          "label": "",
+          "video": "media/DMed6U-Sr2o.mp4",
+          "poster": "media/DMed6U-Sr2o.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DMed6U-Sr2o/",
+          "width": 1080,
+          "height": 1920,
+          "duration": 2.808005,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V37",
+      "brand": "Vaucluse",
+      "format": "Shoot BTS",
+      "fit": "Adapt concept",
+      "title": "Shoot BTS \u00b7 20250718",
+      "note": "Show enough of the shoot and finished outfit to connect the creative process with the shirt.",
+      "date": "20250718",
+      "metric": 7232,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; no audio offered",
+      "variants": [
+        {
+          "id": "V37-reel",
+          "label": "",
+          "video": "media/DMPF-BxSJkc.mp4",
+          "poster": "media/DMPF-BxSJkc.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DMPF-BxSJkc/",
+          "width": 720,
+          "height": 1280,
+          "duration": 1.633333,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V38",
+      "brand": "Vaucluse",
+      "format": "Shoot BTS",
+      "fit": "Adapt concept",
+      "title": "Shoot BTS \u00b7 20250716",
+      "note": "Show enough of the shoot and finished outfit to connect the creative process with the shirt.",
+      "date": "20250716",
+      "metric": 7731,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V38-reel",
+          "label": "",
+          "video": "media/DMKd3mOyQY5.mp4",
+          "poster": "media/DMKd3mOyQY5.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DMKd3mOyQY5/",
+          "width": 1080,
+          "height": 1920,
+          "duration": 12.307007,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V39",
+      "brand": "Vaucluse",
+      "format": "Product demo",
+      "fit": "Outside vibe",
+      "title": "Product demo \u00b7 20250709",
+      "note": "Transfer the product-first framing to Venture: collar, embroidery, buttons, fabric movement, then the complete shirt.",
+      "date": "20250709",
+      "metric": 7257,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V39-reel",
+          "label": "",
+          "video": "media/DL309YZP1kv.mp4",
+          "poster": "media/DL309YZP1kv.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DL309YZP1kv/",
+          "width": 720,
+          "height": 1280,
+          "duration": 10.666667,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V40",
+      "brand": "Vaucluse",
+      "format": "Product demo",
+      "fit": "Outside vibe",
+      "title": "Product demo \u00b7 20250627",
+      "note": "Transfer the product-first framing to Venture: collar, embroidery, buttons, fabric movement, then the complete shirt.",
+      "date": "20250627",
+      "metric": 8698,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; no audio offered",
+      "variants": [
+        {
+          "id": "V40-reel",
+          "label": "",
+          "video": "media/DLY0LrRSceD.mp4",
+          "poster": "media/DLY0LrRSceD.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DLY0LrRSceD/",
+          "width": 1080,
+          "height": 1920,
+          "duration": 4.966667,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V41",
+      "brand": "Vaucluse",
+      "format": "On-body styling",
+      "fit": "Strong match",
+      "title": "On-body styling \u00b7 20250522",
+      "note": "Study the first reveal, proportions and movement. Film the Venture hem, sleeves and back clearly in your own outfit.",
+      "date": "20250522",
+      "metric": 10700,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V41-reel",
+          "label": "",
+          "video": "media/DJ-WndOTttG.mp4",
+          "poster": "media/DJ-WndOTttG.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DJ-WndOTttG/",
+          "width": 1080,
+          "height": 1920,
+          "duration": 10.16,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V42",
+      "brand": "Vaucluse",
+      "format": "On-body styling",
+      "fit": "Adapt concept",
+      "title": "On-body styling \u00b7 20250521",
+      "note": "Study the first reveal, proportions and movement. Film the Venture hem, sleeves and back clearly in your own outfit.",
+      "date": "20250521",
+      "metric": 8960,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V42-reel",
+          "label": "",
+          "video": "media/DJ6OFsMSmCo.mp4",
+          "poster": "media/DJ6OFsMSmCo.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DJ6OFsMSmCo/",
+          "width": 720,
+          "height": 1280,
+          "duration": 9.611995,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V43",
+      "brand": "Vaucluse",
+      "format": "On-body styling",
+      "fit": "Strong match",
+      "title": "Studio long-sleeve styling",
+      "note": "A clean frame makes length, width and drape easy to compare. Add model height and size to your selling assets, outside the blind review board.",
+      "date": "20250519",
+      "metric": 12500,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V43-reel",
+          "label": "",
+          "video": "media/DJ076mCymUL.mp4",
+          "poster": "media/DJ076mCymUL.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DJ076mCymUL/",
+          "width": 1080,
+          "height": 1920,
+          "duration": 8.76,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V44",
+      "brand": "Vaucluse",
+      "format": "On-body styling",
+      "fit": "Adapt concept",
+      "title": "On-body styling \u00b7 20250501",
+      "note": "Study the first reveal, proportions and movement. Film the Venture hem, sleeves and back clearly in your own outfit.",
+      "date": "20250501",
+      "metric": 15300,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V44-reel",
+          "label": "",
+          "video": "media/DJGpKtiy1V-.mp4",
+          "poster": "media/DJGpKtiy1V-.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DJGpKtiy1V-/",
+          "width": 1276,
+          "height": 720,
+          "duration": 32.809002,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V45",
+      "brand": "Vaucluse",
+      "format": "On-body styling",
+      "fit": "Adapt concept",
+      "title": "On-body styling \u00b7 20250311",
+      "note": "Study the first reveal, proportions and movement. Film the Venture hem, sleeves and back clearly in your own outfit.",
+      "date": "20250311",
+      "metric": 11800,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V45-reel",
+          "label": "",
+          "video": "media/DHDbwLaJRsL.mp4",
+          "poster": "media/DHDbwLaJRsL.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DHDbwLaJRsL/",
+          "width": 1080,
+          "height": 1920,
+          "duration": 29.627007,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V46",
+      "brand": "Vaucluse",
+      "format": "On-body styling",
+      "fit": "Strong match",
+      "title": "On-body styling \u00b7 20250218",
+      "note": "Study the first reveal, proportions and movement. Film the Venture hem, sleeves and back clearly in your own outfit.",
+      "date": "20250218",
+      "metric": 15300,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V46-reel",
+          "label": "",
+          "video": "media/DGNVK0LSUOA.mp4",
+          "poster": "media/DGNVK0LSUOA.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DGNVK0LSUOA/",
+          "width": 720,
+          "height": 1280,
+          "duration": 39.541995,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V47",
+      "brand": "Vaucluse",
+      "format": "On-body styling",
+      "fit": "Adapt concept",
+      "title": "On-body styling \u00b7 20250113",
+      "note": "Study the first reveal, proportions and movement. Film the Venture hem, sleeves and back clearly in your own outfit.",
+      "date": "20250113",
+      "metric": 18800,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V47-reel",
+          "label": "",
+          "video": "media/DEwivSaSTA7.mp4",
+          "poster": "media/DEwivSaSTA7.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DEwivSaSTA7/",
+          "width": 720,
+          "height": 1280,
+          "duration": 9.2,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V48",
+      "brand": "Vaucluse",
+      "format": "On-body styling",
+      "fit": "Strong match",
+      "title": "On-body styling \u00b7 20240918",
+      "note": "Study the first reveal, proportions and movement. Film the Venture hem, sleeves and back clearly in your own outfit.",
+      "date": "20240918",
+      "metric": 10400,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V48-reel",
+          "label": "",
+          "video": "media/DADLIEnJTTM.mp4",
+          "poster": "media/DADLIEnJTTM.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/DADLIEnJTTM/",
+          "width": 720,
+          "height": 1280,
+          "duration": 9.433008,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V49",
+      "brand": "Vaucluse",
+      "format": "On-body styling",
+      "fit": "Adapt concept",
+      "title": "On-body styling \u00b7 20240828",
+      "note": "Study the first reveal, proportions and movement. Film the Venture hem, sleeves and back clearly in your own outfit.",
+      "date": "20240828",
+      "metric": 11400,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V49-reel",
+          "label": "",
+          "video": "media/C_NXQE0JF2s.mp4",
+          "poster": "media/C_NXQE0JF2s.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/C_NXQE0JF2s/",
+          "width": 720,
+          "height": 1280,
+          "duration": 17.966667,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V50",
+      "brand": "Vaucluse",
+      "format": "Lifestyle / travel",
+      "fit": "Adapt concept",
+      "title": "Lifestyle / travel \u00b7 20240819",
+      "note": "Borrow the pacing or sense of place. For the UK launch, replace holiday scenery with a believable autumn setting.",
+      "date": "20240819",
+      "metric": 76800,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V50-reel",
+          "label": "",
+          "video": "media/C-2COAtJL4d.mp4",
+          "poster": "media/C-2COAtJL4d.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/C-2COAtJL4d/",
+          "width": 720,
+          "height": 1280,
+          "duration": 21.333333,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V51",
+      "brand": "Vaucluse",
+      "format": "Product demo",
+      "fit": "Strong match",
+      "title": "Product demo \u00b7 20240801",
+      "note": "Transfer the product-first framing to Venture: collar, embroidery, buttons, fabric movement, then the complete shirt.",
+      "date": "20240801",
+      "metric": 25600,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V51-reel",
+          "label": "",
+          "video": "media/C-JKk9evMlV.mp4",
+          "poster": "media/C-JKk9evMlV.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/C-JKk9evMlV/",
+          "width": 720,
+          "height": 1280,
+          "duration": 3.713991,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V52",
+      "brand": "Vaucluse",
+      "format": "Lifestyle / travel",
+      "fit": "Adapt concept",
+      "title": "Lifestyle / travel \u00b7 20240730",
+      "note": "Borrow the pacing or sense of place. For the UK launch, replace holiday scenery with a believable autumn setting.",
+      "date": "20240730",
+      "metric": 11900,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V52-reel",
+          "label": "",
+          "video": "media/C-BqSpPyR17.mp4",
+          "poster": "media/C-BqSpPyR17.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/C-BqSpPyR17/",
+          "width": 720,
+          "height": 1280,
+          "duration": 14.233008,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V53",
+      "brand": "Vaucluse",
+      "format": "On-body styling",
+      "fit": "Strong match",
+      "title": "On-body styling \u00b7 20240729",
+      "note": "Study the first reveal, proportions and movement. Film the Venture hem, sleeves and back clearly in your own outfit.",
+      "date": "20240729",
+      "metric": 16000,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V53-reel",
+          "label": "",
+          "video": "media/C9_-g9EpRC2.mp4",
+          "poster": "media/C9_-g9EpRC2.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/C9_-g9EpRC2/",
+          "width": 720,
+          "height": 1280,
+          "duration": 8.916016,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V54",
+      "brand": "Vaucluse",
+      "format": "Product demo",
+      "fit": "Strong match",
+      "title": "Hands-on flannel reveal",
+      "note": "The plaid garment differs from Venture, but the physical reveal transfers well: hands lift the shirt, then show fabric, buttons and pocket. Test that against a model opening.",
+      "date": "20240724",
+      "metric": 138000,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V54-reel",
+          "label": "",
+          "video": "media/C9zBU-ZJWhl.mp4",
+          "poster": "media/C9zBU-ZJWhl.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/C9zBU-ZJWhl/",
+          "width": 1080,
+          "height": 1920,
+          "duration": 13.366667,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V55",
+      "brand": "Vaucluse",
+      "format": "On-body styling",
+      "fit": "Adapt concept",
+      "title": "On-body styling \u00b7 20240723",
+      "note": "Study the first reveal, proportions and movement. Film the Venture hem, sleeves and back clearly in your own outfit.",
+      "date": "20240723",
+      "metric": 10500,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V55-reel",
+          "label": "",
+          "video": "media/C9wi8XXJW-K.mp4",
+          "poster": "media/C9wi8XXJW-K.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/C9wi8XXJW-K/",
+          "width": 720,
+          "height": 1280,
+          "duration": 6.133008,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V56",
+      "brand": "Vaucluse",
+      "format": "On-body styling",
+      "fit": "Outside vibe",
+      "title": "On-body styling \u00b7 20240708",
+      "note": "Study the first reveal, proportions and movement. Film the Venture hem, sleeves and back clearly in your own outfit.",
+      "date": "20240708",
+      "metric": 46100,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V56-reel",
+          "label": "",
+          "video": "media/C9J1XpFp5VV.mp4",
+          "poster": "media/C9J1XpFp5VV.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/C9J1XpFp5VV/",
+          "width": 1080,
+          "height": 1920,
+          "duration": 11.770998,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V57",
+      "brand": "Vaucluse",
+      "format": "On-body styling",
+      "fit": "Strong match",
+      "title": "Signature long-sleeve launch",
+      "note": "The largest observed Vaucluse Reel in this archive. Put the navy shirt on a moving person in an everyday location; show the back and hem as well as the logo. Use your own setting and footage.",
+      "date": "20240528",
+      "metric": 160000,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V57-reel",
+          "label": "",
+          "video": "media/C7gPW2ZJtIq.mp4",
+          "poster": "media/C7gPW2ZJtIq.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/C7gPW2ZJtIq/",
+          "width": 1080,
+          "height": 1920,
+          "duration": 17.1,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V58",
+      "brand": "Vaucluse",
+      "format": "Lifestyle / travel",
+      "fit": "Outside vibe",
+      "title": "Lifestyle / travel \u00b7 20240527",
+      "note": "Borrow the pacing or sense of place. For the UK launch, replace holiday scenery with a believable autumn setting.",
+      "date": "20240527",
+      "metric": 22800,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V58-reel",
+          "label": "",
+          "video": "media/C7drL4zp6xo.mp4",
+          "poster": "media/C7drL4zp6xo.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/C7drL4zp6xo/",
+          "width": 1280,
+          "height": 718,
+          "duration": 113.366667,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V59",
+      "brand": "Vaucluse",
+      "format": "On-body styling",
+      "fit": "Strong match",
+      "title": "Striped work-shirt introduction",
+      "note": "A direct shirting reference. Let walking, turning and a full-body outfit explain the silhouette before adding text.",
+      "date": "20240501",
+      "metric": 98800,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V59-reel",
+          "label": "",
+          "video": "media/C6avBrgJb2g.mp4",
+          "poster": "media/C6avBrgJb2g.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/C6avBrgJb2g/",
+          "width": 1080,
+          "height": 1920,
+          "duration": 7.406009,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V60",
+      "brand": "Vaucluse",
+      "format": "Shoot BTS",
+      "fit": "Adapt concept",
+      "title": "Shoot BTS \u00b7 20240319",
+      "note": "Show enough of the shoot and finished outfit to connect the creative process with the shirt.",
+      "date": "20240319",
+      "metric": 14800,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V60-reel",
+          "label": "",
+          "video": "media/C4sCKLhpU7_.mp4",
+          "poster": "media/C4sCKLhpU7_.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/C4sCKLhpU7_/",
+          "width": 720,
+          "height": 1280,
+          "duration": 27.1,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V61",
+      "brand": "Vaucluse",
+      "format": "Shoot BTS",
+      "fit": "Adapt concept",
+      "title": "Shoot BTS \u00b7 20240211",
+      "note": "Show enough of the shoot and finished outfit to connect the creative process with the shirt.",
+      "date": "20240211",
+      "metric": 6054,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V61-reel",
+          "label": "",
+          "video": "media/C3Mz3VwpwXb.mp4",
+          "poster": "media/C3Mz3VwpwXb.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/C3Mz3VwpwXb/",
+          "width": 720,
+          "height": 1280,
+          "duration": 22.166667,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V62",
+      "brand": "Vaucluse",
+      "format": "Lifestyle / travel",
+      "fit": "Adapt concept",
+      "title": "Lifestyle / travel \u00b7 20240101",
+      "note": "Borrow the pacing or sense of place. For the UK launch, replace holiday scenery with a believable autumn setting.",
+      "date": "20240101",
+      "metric": 14800,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V62-reel",
+          "label": "",
+          "video": "media/C1jMmCqpwUN.mp4",
+          "poster": "media/C1jMmCqpwUN.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/C1jMmCqpwUN/",
+          "width": 1080,
+          "height": 608,
+          "duration": 37.12,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V63",
+      "brand": "Vaucluse",
+      "format": "Lifestyle / travel",
+      "fit": "Adapt concept",
+      "title": "Lifestyle / travel \u00b7 20231226",
+      "note": "Borrow the pacing or sense of place. For the UK launch, replace holiday scenery with a believable autumn setting.",
+      "date": "20231226",
+      "metric": 18200,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V63-reel",
+          "label": "",
+          "video": "media/C1Vb5CfSRVG.mp4",
+          "poster": "media/C1Vb5CfSRVG.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/C1Vb5CfSRVG/",
+          "width": 720,
+          "height": 1280,
+          "duration": 24.48,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V64",
+      "brand": "Vaucluse",
+      "format": "Shoot BTS",
+      "fit": "Adapt concept",
+      "title": "Shoot BTS \u00b7 20231207",
+      "note": "Show enough of the shoot and finished outfit to connect the creative process with the shirt.",
+      "date": "20231207",
+      "metric": 11700,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V64-reel",
+          "label": "",
+          "video": "media/C0i-z3xpgvn.mp4",
+          "poster": "media/C0i-z3xpgvn.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/C0i-z3xpgvn/",
+          "width": 720,
+          "height": 1280,
+          "duration": 8.9,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V65",
+      "brand": "Vaucluse",
+      "format": "Product demo",
+      "fit": "Outside vibe",
+      "title": "Product demo \u00b7 20230516",
+      "note": "Transfer the product-first framing to Venture: collar, embroidery, buttons, fabric movement, then the complete shirt.",
+      "date": "20230516",
+      "metric": 5292,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V65-reel",
+          "label": "",
+          "video": "media/CsTEiquJx8C.mp4",
+          "poster": "media/CsTEiquJx8C.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/CsTEiquJx8C/",
+          "width": 720,
+          "height": 1280,
+          "duration": 3.850998,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V66",
+      "brand": "Vaucluse",
+      "format": "Founder / process",
+      "fit": "Adapt concept",
+      "title": "Founder / process \u00b7 20230220",
+      "note": "Use real sample or production footage to explain a specific decision and support trust.",
+      "date": "20230220",
+      "metric": 3173,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; no audio offered",
+      "variants": [
+        {
+          "id": "V66-reel",
+          "label": "",
+          "video": "media/Co4EtXwpRuT.mp4",
+          "poster": "media/Co4EtXwpRuT.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/Co4EtXwpRuT/",
+          "width": 720,
+          "height": 1280,
+          "duration": 4.866667,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V67",
+      "brand": "Vaucluse",
+      "format": "Founder / process",
+      "fit": "Strong match",
+      "title": "Founder / process \u00b7 20230213",
+      "note": "Use real sample or production footage to explain a specific decision and support trust.",
+      "date": "20230213",
+      "metric": 4821,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; no audio offered",
+      "variants": [
+        {
+          "id": "V67-reel",
+          "label": "",
+          "video": "media/ColfEhTpc1x.mp4",
+          "poster": "media/ColfEhTpc1x.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/ColfEhTpc1x/",
+          "width": 480,
+          "height": 854,
+          "duration": 3.1,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V68",
+      "brand": "Vaucluse",
+      "format": "Graphic / concept",
+      "fit": "Outside vibe",
+      "title": "Graphic / concept \u00b7 20230126",
+      "note": "Keep this as a visual-treatment reference. It is a broader creative direction, not evidence of purchase intent.",
+      "date": "20230126",
+      "metric": 4213,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V68-reel",
+          "label": "",
+          "video": "media/Cn3vrApJv-Y.mp4",
+          "poster": "media/Cn3vrApJv-Y.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/Cn3vrApJv-Y/",
+          "width": 720,
+          "height": 1280,
+          "duration": 10.028005,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V69",
+      "brand": "Vaucluse",
+      "format": "Lifestyle / travel",
+      "fit": "Outside vibe",
+      "title": "Lifestyle / travel \u00b7 20221123",
+      "note": "Borrow the pacing or sense of place. For the UK launch, replace holiday scenery with a believable autumn setting.",
+      "date": "20221123",
+      "metric": 2306,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V69-reel",
+          "label": "",
+          "video": "media/ClS-vFxj3Fg.mp4",
+          "poster": "media/ClS-vFxj3Fg.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/ClS-vFxj3Fg/",
+          "width": 720,
+          "height": 1280,
+          "duration": 6.533333,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V70",
+      "brand": "Vaucluse",
+      "format": "On-body styling",
+      "fit": "Outside vibe",
+      "title": "On-body styling \u00b7 20221117",
+      "note": "Study the first reveal, proportions and movement. Film the Venture hem, sleeves and back clearly in your own outfit.",
+      "date": "20221117",
+      "metric": 2781,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V70-reel",
+          "label": "",
+          "video": "media/ClDjHehjVJF.mp4",
+          "poster": "media/ClDjHehjVJF.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/ClDjHehjVJF/",
+          "width": 720,
+          "height": 1280,
+          "duration": 3.085011,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V71",
+      "brand": "Vaucluse",
+      "format": "On-body styling",
+      "fit": "Outside vibe",
+      "title": "On-body styling \u00b7 20221023",
+      "note": "Study the first reveal, proportions and movement. Film the Venture hem, sleeves and back clearly in your own outfit.",
+      "date": "20221023",
+      "metric": 2194,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V71-reel",
+          "label": "",
+          "video": "media/CkCpK2ODqKB.mp4",
+          "poster": "media/CkCpK2ODqKB.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/CkCpK2ODqKB/",
+          "width": 720,
+          "height": 1280,
+          "duration": 10.0,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V72",
+      "brand": "Vaucluse",
+      "format": "On-body styling",
+      "fit": "Outside vibe",
+      "title": "On-body styling \u00b7 20220929",
+      "note": "Study the first reveal, proportions and movement. Film the Venture hem, sleeves and back clearly in your own outfit.",
+      "date": "20220929",
+      "metric": 2716,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V72-reel",
+          "label": "",
+          "video": "media/CjFZjTKDvvr.mp4",
+          "poster": "media/CjFZjTKDvvr.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/CjFZjTKDvvr/",
+          "width": 720,
+          "height": 1280,
+          "duration": 8.233333,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V73",
+      "brand": "Vaucluse",
+      "format": "Lifestyle / travel",
+      "fit": "Adapt concept",
+      "title": "Lifestyle / travel \u00b7 20220927",
+      "note": "Borrow the pacing or sense of place. For the UK launch, replace holiday scenery with a believable autumn setting.",
+      "date": "20220927",
+      "metric": 6725,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V73-reel",
+          "label": "",
+          "video": "media/CjAPT1AjW5C.mp4",
+          "poster": "media/CjAPT1AjW5C.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/CjAPT1AjW5C/",
+          "width": 1080,
+          "height": 608,
+          "duration": 21.847007,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V74",
+      "brand": "Vaucluse",
+      "format": "Shoot BTS",
+      "fit": "Adapt concept",
+      "title": "Shoot BTS \u00b7 20220915",
+      "note": "Show enough of the shoot and finished outfit to connect the creative process with the shirt.",
+      "date": "20220915",
+      "metric": 1653,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V74-reel",
+          "label": "",
+          "video": "media/CihBYL6jg83.mp4",
+          "poster": "media/CihBYL6jg83.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/CihBYL6jg83/",
+          "width": 720,
+          "height": 1280,
+          "duration": 2.9,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V75",
+      "brand": "Vaucluse",
+      "format": "On-body styling",
+      "fit": "Outside vibe",
+      "title": "On-body styling \u00b7 20220823",
+      "note": "Study the first reveal, proportions and movement. Film the Venture hem, sleeves and back clearly in your own outfit.",
+      "date": "20220823",
+      "metric": 4228,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V75-reel",
+          "label": "",
+          "video": "media/ChmC_meje9d.mp4",
+          "poster": "media/ChmC_meje9d.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/ChmC_meje9d/",
+          "width": 720,
+          "height": 1280,
+          "duration": 10.005011,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V76",
+      "brand": "Vaucluse",
+      "format": "On-body styling",
+      "fit": "Outside vibe",
+      "title": "On-body styling \u00b7 20220818",
+      "note": "Study the first reveal, proportions and movement. Film the Venture hem, sleeves and back clearly in your own outfit.",
+      "date": "20220818",
+      "metric": 3006,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V76-reel",
+          "label": "",
+          "video": "media/ChZQLE4DnTv.mp4",
+          "poster": "media/ChZQLE4DnTv.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/ChZQLE4DnTv/",
+          "width": 720,
+          "height": 1280,
+          "duration": 10.005011,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V77",
+      "brand": "Vaucluse",
+      "format": "Graphic / concept",
+      "fit": "Outside vibe",
+      "title": "Graphic / concept \u00b7 20220811",
+      "note": "Keep this as a visual-treatment reference. It is a broader creative direction, not evidence of purchase intent.",
+      "date": "20220811",
+      "metric": 304,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V77-reel",
+          "label": "",
+          "video": "media/ChHK2OSjsWh.mp4",
+          "poster": "media/ChHK2OSjsWh.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/ChHK2OSjsWh/",
+          "width": 720,
+          "height": 720,
+          "duration": 9.285011,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V78",
+      "brand": "Vaucluse",
+      "format": "Lifestyle / travel",
+      "fit": "Outside vibe",
+      "title": "Lifestyle / travel \u00b7 20220705",
+      "note": "Borrow the pacing or sense of place. For the UK launch, replace holiday scenery with a believable autumn setting.",
+      "date": "20220705",
+      "metric": 3184,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V78-reel",
+          "label": "",
+          "video": "media/Cfn3KpUDr3-.mp4",
+          "poster": "media/Cfn3KpUDr3-.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/Cfn3KpUDr3-/",
+          "width": 720,
+          "height": 1280,
+          "duration": 10.608005,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V79",
+      "brand": "Vaucluse",
+      "format": "Product demo",
+      "fit": "Outside vibe",
+      "title": "Product demo \u00b7 20220629",
+      "note": "Transfer the product-first framing to Venture: collar, embroidery, buttons, fabric movement, then the complete shirt.",
+      "date": "20220629",
+      "metric": 1532,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; no audio offered",
+      "variants": [
+        {
+          "id": "V79-reel",
+          "label": "",
+          "video": "media/CfYYmO6jHgU.mp4",
+          "poster": "media/CfYYmO6jHgU.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/CfYYmO6jHgU/",
+          "width": 720,
+          "height": 1280,
+          "duration": 5.033333,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V80",
+      "brand": "Vaucluse",
+      "format": "Product demo",
+      "fit": "Outside vibe",
+      "title": "Product demo \u00b7 20220613",
+      "note": "Transfer the product-first framing to Venture: collar, embroidery, buttons, fabric movement, then the complete shirt.",
+      "date": "20220613",
+      "metric": 1743,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V80-reel",
+          "label": "",
+          "video": "media/CevUqC3DW1c.mp4",
+          "poster": "media/CevUqC3DW1c.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/CevUqC3DW1c/",
+          "width": 1080,
+          "height": 608,
+          "duration": 9.238005,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V81",
+      "brand": "Vaucluse",
+      "format": "Lifestyle / travel",
+      "fit": "Adapt concept",
+      "title": "Lifestyle / travel \u00b7 20220107",
+      "note": "Borrow the pacing or sense of place. For the UK launch, replace holiday scenery with a believable autumn setting.",
+      "date": "20220107",
+      "metric": 4183,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V81-reel",
+          "label": "",
+          "video": "media/CYbJWOCqB71.mp4",
+          "poster": "media/CYbJWOCqB71.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/CYbJWOCqB71/",
+          "width": 720,
+          "height": 1280,
+          "duration": 38.495011,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V82",
+      "brand": "Vaucluse",
+      "format": "Lifestyle / travel",
+      "fit": "Adapt concept",
+      "title": "Lifestyle / travel \u00b7 20211208",
+      "note": "Borrow the pacing or sense of place. For the UK launch, replace holiday scenery with a believable autumn setting.",
+      "date": "20211208",
+      "metric": 1591,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V82-reel",
+          "label": "",
+          "video": "media/CXNuJnjDd0k.mp4",
+          "poster": "media/CXNuJnjDd0k.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/CXNuJnjDd0k/",
+          "width": 720,
+          "height": 406,
+          "duration": 38.495011,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "V83",
+      "brand": "Vaucluse",
+      "format": "Lifestyle / travel",
+      "fit": "Adapt concept",
+      "title": "Lifestyle / travel \u00b7 20211129",
+      "note": "Borrow the pacing or sense of place. For the UK launch, replace holiday scenery with a believable autumn setting.",
+      "date": "20211129",
+      "metric": null,
+      "metricType": "views",
+      "metricSource": "Instagram profile grid; rounded where displayed",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "V83-reel",
+          "label": "",
+          "video": "media/CW2geyRDwDs.mp4",
+          "poster": "media/CW2geyRDwDs.jpg",
+          "source": "https://www.instagram.com/vauclusestudios/reel/CW2geyRDwDs/",
+          "width": 720,
+          "height": 900,
+          "duration": 28.166667,
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "F01",
+      "brand": "Max Jacobasch",
+      "format": "Humour / hook",
+      "fit": "Outside vibe",
+      "title": "Escalation humour",
+      "note": "Your supplied reference is a hair-transplant joke, not a clothing-brand ad. Transfer only the escalating setup/reveal mechanism. Download was audience-restricted; keep the original URL.",
+      "metric": 722000,
+      "metricType": "likes",
+      "metricSource": "Visible Instagram count",
+      "qc": "URL backup only: audience-restricted download",
+      "variants": [
+        {
+          "id": "F01-reel",
+          "label": "",
+          "source": "https://www.instagram.com/reels/DctwPe5AJWP/",
+          "reference": false
+        }
+      ]
+    },
+    {
+      "code": "F02",
+      "brand": "Liad",
+      "format": "Shoot BTS",
+      "fit": "Adapt concept",
+      "title": "Young director / reveal",
+      "note": "A filmmaker framing his own work creates curiosity before the finished result. Adapt to filming Venture with a clear product payoff.",
+      "metric": 8274,
+      "metricType": "likes",
+      "metricSource": "Visible Instagram count",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "F02-reel",
+          "label": "",
+          "source": "https://www.instagram.com/reels/Db9aFPcqAhR/",
+          "reference": false,
+          "video": "media/Db9aFPcqAhR.mp4",
+          "poster": "media/Db9aFPcqAhR.jpg",
+          "width": 1440,
+          "height": 2560,
+          "duration": 11.561995
+        }
+      ]
+    },
+    {
+      "code": "F03",
+      "brand": "Fabia",
+      "format": "On-body styling",
+      "fit": "Adapt concept",
+      "title": "Rugby-polo styling",
+      "note": "A nearby menswear silhouette. Study styling and framing, then replace the rugby polo with your navy shirt. The sideways framing is in the source.",
+      "metric": 712,
+      "metricType": "likes",
+      "metricSource": "Visible Instagram count",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "F03-reel",
+          "label": "",
+          "source": "https://www.instagram.com/reels/DcE_LnnTyyc/",
+          "reference": false,
+          "video": "media/DcE_LnnTyyc.mp4",
+          "poster": "media/DcE_LnnTyyc.jpg",
+          "width": 1440,
+          "height": 2560,
+          "duration": 28.071995
+        }
+      ]
+    },
+    {
+      "code": "F04",
+      "brand": "Claire D\u00e9s\u00e9rable",
+      "format": "Shoot BTS",
+      "fit": "Adapt concept",
+      "title": "Photographer at work",
+      "note": "The work-to-result reveal is reusable for a small shoot. Show the shutter moment, then the best finished Venture image.",
+      "metric": 44,
+      "metricType": "likes",
+      "metricSource": "Visible Instagram count",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "F04-reel",
+          "label": "",
+          "source": "https://www.instagram.com/reels/DdJe8Xaona8/",
+          "reference": false,
+          "video": "media/DdJe8Xaona8.mp4",
+          "poster": "media/DdJe8Xaona8.jpg",
+          "width": 1440,
+          "height": 2560,
+          "duration": 15.666667
+        }
+      ]
+    },
+    {
+      "code": "F05",
+      "brand": "Drukis",
+      "format": "Founder / process",
+      "fit": "Adapt concept",
+      "title": "Brand-owner day in the life",
+      "note": "Mix daily routine with concrete garment work. Make the shirt development the payoff, not an unrelated lifestyle montage.",
+      "metric": 4931,
+      "metricType": "likes",
+      "metricSource": "Visible Instagram count",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "F05-reel",
+          "label": "",
+          "source": "https://www.instagram.com/reels/Dap8ALfxJGU/",
+          "reference": false,
+          "video": "media/Dap8ALfxJGU.mp4",
+          "poster": "media/Dap8ALfxJGU.jpg",
+          "width": 1440,
+          "height": 2560,
+          "duration": 26.213991
+        }
+      ]
+    },
+    {
+      "code": "F06",
+      "brand": "Agnieszka Grobelna",
+      "format": "Shoot BTS",
+      "fit": "Outside vibe",
+      "title": "Editorial shoot reveal",
+      "note": "A broader fashion-editorial treatment. Borrow transitions or reveal structure if you can still show the shirt clearly.",
+      "metric": 1717,
+      "metricType": "likes",
+      "metricSource": "Visible Instagram count",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "F06-reel",
+          "label": "",
+          "source": "https://www.instagram.com/reels/DdJGG2Ip2a_/",
+          "reference": false,
+          "video": "media/DdJGG2Ip2a_.mp4",
+          "poster": "media/DdJGG2Ip2a_.jpg",
+          "width": 1080,
+          "height": 1920,
+          "duration": 9.519002
+        }
+      ]
+    },
+    {
+      "code": "F07",
+      "brand": "Nick Rae",
+      "format": "Humour / hook",
+      "fit": "Outside vibe",
+      "title": "Creative group-chat idea",
+      "note": "Behind-the-scenes creative humour. Adapt the tension between an idea and its execution, with the shirt appearing early enough to remember.",
+      "metric": 244,
+      "metricType": "likes",
+      "metricSource": "Visible Instagram count",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "F07-reel",
+          "label": "",
+          "source": "https://www.instagram.com/reels/DdESM4zybZW/",
+          "reference": false,
+          "video": "media/DdESM4zybZW.mp4",
+          "poster": "media/DdESM4zybZW.jpg",
+          "width": 1440,
+          "height": 2560,
+          "duration": 8.380998
+        }
+      ]
+    },
+    {
+      "code": "F08",
+      "brand": "Bless Knox",
+      "format": "Founder / process",
+      "fit": "Adapt concept",
+      "title": "Clothing studio humour",
+      "note": "The real clothing workspace gives a casual joke brand context. Venture can use a sample-table or packing-room version.",
+      "metric": 7544,
+      "metricType": "likes",
+      "metricSource": "Visible Instagram count",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "F08-reel",
+          "label": "",
+          "source": "https://www.instagram.com/reels/DbWrAPERw0j/",
+          "reference": false,
+          "video": "media/DbWrAPERw0j.mp4",
+          "poster": "media/DbWrAPERw0j.jpg",
+          "width": 1440,
+          "height": 2560,
+          "duration": 7.708005
+        }
+      ]
+    },
+    {
+      "code": "F09",
+      "brand": "Benjaminglex",
+      "format": "Camera concept",
+      "fit": "Outside vibe",
+      "title": "Unusual camera placement",
+      "note": "Keep the unexpected viewpoint as inspiration. Use a safe fixed camera in a permitted space; moving public transport is unnecessary.",
+      "metric": 994,
+      "metricType": "likes",
+      "metricSource": "Visible Instagram count",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "F09-reel",
+          "label": "",
+          "source": "https://www.instagram.com/reels/Dc1AU_6Nrc5/",
+          "reference": false,
+          "video": "media/Dc1AU_6Nrc5.mp4",
+          "poster": "media/Dc1AU_6Nrc5.jpg",
+          "width": 1080,
+          "height": 1920,
+          "duration": 27.839002
+        }
+      ]
+    },
+    {
+      "code": "F10",
+      "brand": "Sedjroxx",
+      "format": "Fashion concept",
+      "fit": "Outside vibe",
+      "title": "Exaggerated styling concept",
+      "note": "Large visible engagement on an extreme fashion concept. Useful for studying surprise and styling escalation, not evidence that this look would sell the navy shirt.",
+      "metric": 1500000,
+      "metricType": "likes",
+      "metricSource": "Visible Instagram count",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "F10-reel",
+          "label": "",
+          "source": "https://www.instagram.com/reels/Dc1syqARduN/",
+          "reference": false,
+          "video": "media/Dc1syqARduN.mp4",
+          "poster": "media/Dc1syqARduN.jpg",
+          "width": 1440,
+          "height": 2560,
+          "duration": 53.311995
+        }
+      ]
+    },
+    {
+      "code": "F11",
+      "brand": "Rakitecht",
+      "format": "Product concept",
+      "fit": "Outside vibe",
+      "title": "Physical product prop",
+      "note": "A book/product carried into a real space makes a tangible hook. For Venture, a garment bag or rail could carry the same reveal.",
+      "metric": null,
+      "metricType": "likes",
+      "metricSource": "Visible Instagram count",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "F11-reel",
+          "label": "",
+          "source": "https://www.instagram.com/reels/Dc3rM16N73W/",
+          "reference": false,
+          "video": "media/Dc3rM16N73W.mp4",
+          "poster": "media/Dc3rM16N73W.jpg",
+          "width": 1440,
+          "height": 2560,
+          "duration": 14.673991
+        }
+      ]
+    },
+    {
+      "code": "F12",
+      "brand": "PRX Vault",
+      "format": "Street activation",
+      "fit": "Outside vibe",
+      "title": "Giant QR-code stunt",
+      "note": "A simple physical object creates public curiosity. Adapt only if the reveal and destination are immediately useful to the audience.",
+      "metric": 101000,
+      "metricType": "likes",
+      "metricSource": "Visible Instagram count",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "F12-reel",
+          "label": "",
+          "source": "https://www.instagram.com/reels/DcktzqBx81G/",
+          "reference": false,
+          "video": "media/DcktzqBx81G.mp4",
+          "poster": "media/DcktzqBx81G.jpg",
+          "width": 1080,
+          "height": 1920,
+          "duration": 16.508005
+        }
+      ]
+    },
+    {
+      "code": "F13",
+      "brand": "Tom Margage",
+      "format": "Shoot BTS",
+      "fit": "Adapt concept",
+      "title": "Creative director reveal",
+      "note": "Frame the contrast between the casual shoot setup and the finished brand film. Useful for a small-budget Venture production.",
+      "metric": 1833,
+      "metricType": "likes",
+      "metricSource": "Visible Instagram count",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "F13-reel",
+          "label": "",
+          "source": "https://www.instagram.com/reels/Dc7Cok8M6Rd/",
+          "reference": false,
+          "video": "media/Dc7Cok8M6Rd.mp4",
+          "poster": "media/Dc7Cok8M6Rd.jpg",
+          "width": 1080,
+          "height": 1920,
+          "duration": 14.047007
+        }
+      ]
+    },
+    {
+      "code": "F14",
+      "brand": "Mariam Tsilosani",
+      "format": "Creative reveal",
+      "fit": "Outside vibe",
+      "title": "Creator introduction / work",
+      "note": "Person-first opening followed by the work. Keep the garment as the payoff if adapting this structure.",
+      "metric": null,
+      "metricType": "likes",
+      "metricSource": "Visible Instagram count",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "F14-reel",
+          "label": "",
+          "source": "https://www.instagram.com/reels/DdBUhtoNTF4/",
+          "reference": false,
+          "video": "media/DdBUhtoNTF4.mp4",
+          "poster": "media/DdBUhtoNTF4.jpg",
+          "width": 1440,
+          "height": 2560,
+          "duration": 11.120998
+        }
+      ]
+    },
+    {
+      "code": "F15",
+      "brand": "Taylah Cunningham",
+      "format": "Creative reveal",
+      "fit": "Adapt concept",
+      "title": "Photographer / photographs",
+      "note": "The creator-to-work contrast can become sample-in-hand to styled final look. Let the result do the selling.",
+      "metric": null,
+      "metricType": "likes",
+      "metricSource": "Visible Instagram count",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "F15-reel",
+          "label": "",
+          "source": "https://www.instagram.com/reels/Dc3bL0lBP33/",
+          "reference": false,
+          "video": "media/Dc3bL0lBP33.mp4",
+          "poster": "media/Dc3bL0lBP33.jpg",
+          "width": 1080,
+          "height": 1920,
+          "duration": 15.556009
+        }
+      ]
+    },
+    {
+      "code": "F16",
+      "brand": "Orchid Archive",
+      "format": "Founder / process",
+      "fit": "Adapt concept",
+      "title": "Sweatpants-drop community build",
+      "note": "A small clothing brand ties creator progress to an upcoming product. Useful for documenting Venture\u2019s sample journey and waitlist.",
+      "metric": null,
+      "metricType": "likes",
+      "metricSource": "Visible Instagram count",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "F16-reel",
+          "label": "",
+          "source": "https://www.instagram.com/reels/DdGLDlNRVlb/",
+          "reference": false,
+          "video": "media/DdGLDlNRVlb.mp4",
+          "poster": "media/DdGLDlNRVlb.jpg",
+          "width": 1440,
+          "height": 2560,
+          "duration": 8.310998
+        }
+      ]
+    },
+    {
+      "code": "F17",
+      "brand": "Bo+Tee / Olivia",
+      "format": "Product concept",
+      "fit": "Outside vibe",
+      "title": "Cottage-core campaign concept",
+      "note": "A fashion campaign in a different aesthetic. Study the tactile prop and interaction; translate the mechanism into navy, white and a city setting.",
+      "metric": null,
+      "metricType": "likes",
+      "metricSource": "Visible Instagram count",
+      "qc": "Decoded; audio present",
+      "variants": [
+        {
+          "id": "F17-reel",
+          "label": "",
+          "source": "https://www.instagram.com/reels/Dc1m-qUKZea/",
+          "reference": false,
+          "video": "media/Dc1m-qUKZea.mp4",
+          "poster": "media/Dc1m-qUKZea.jpg",
+          "width": 1440,
+          "height": 2560,
+          "duration": 19.945011
+        }
+      ]
+    }
+  ]
+}
